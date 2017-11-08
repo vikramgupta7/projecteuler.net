@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 x
 y
 z
+=======
+a
+b
+c
+d
+>>>>>>> refs/remotes/origin/master
