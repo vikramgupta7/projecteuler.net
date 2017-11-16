@@ -1,0 +1,6 @@
+lala.txt
+<<<<<<< HEAD
+adding this line in master.
+=======
+adding this in b2.
+>>>>>>> b2
