@@ -1,2 +1,3 @@
 lala.txt
 adding this line in master.
+adding this in b2.
